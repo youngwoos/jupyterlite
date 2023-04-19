@@ -1,1 +1,1 @@
-# jupyterlite-test
+# jupyterlite
